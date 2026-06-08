@@ -4,9 +4,6 @@ data/00_pisa_filtered-columns.csv
 data/PISA_2022._Programa_para_la_Evaluacion_Internacion.pdf
 data/.~lock.*
 
-# Outputs generados
-*.html
-
 # Jupyter
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
