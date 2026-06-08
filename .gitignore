@@ -1,18 +1,33 @@
-# Datos pesados
+# Datos pesados (no subir a GitHub)
 data/CY08MSP_STU_QQQ.SAV
 data/00_pisa_filtered-columns.csv
 data/PISA_2022._Programa_para_la_Evaluacion_Internacion.pdf
 data/.~lock.*
 
-# Jupyter
-.ipynb_checkpoints/
-**/.ipynb_checkpoints/
+# Outputs generados
 *.html
-
-# Python
-__pycache__/
-*.py[cod]
-.env
 
 # Claude
 .claude/
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[codz]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+MANIFEST
+dist/
+build/
+.env
+.venv
+venv/
+env/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
