@@ -7,9 +7,6 @@ data/.~lock.*
 # Outputs generados
 *.html
 
-# Claude
-.claude/
-
 # Jupyter
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
